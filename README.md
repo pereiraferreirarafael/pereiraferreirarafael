@@ -14,4 +14,5 @@
 ## 🔥 Contribuições
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PEREIRAFERREIRARAFAEL&theme=tokyonight)
 
+![Snake animation](https://github.com/PEREIRAFERREIRARAFAEL/PEREIRAFERREIRARAFAEL/blob/output/github-contribution-grid-snake-dark.svg)
 
