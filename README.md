@@ -1,7 +1,7 @@
 # Olá, eu sou o Rafael 👋
 
 💻 Desenvolvedor Front-end  
-🚀 Focado em Angular, HTML, CSS e JavaScript, Atualmente estudanto React.  
+🚀 Focado em Angular, HTML, CSS e JavaScript, TypeScript, React. Atualmente estudando Python visando inteligência Artificial.  
 📍 Rio de Janeiro, Brasil  
 
 ## 🛠️ Tecnologias
@@ -10,6 +10,7 @@
 - HTML5
 - CSS3
 - JavaScript
+- React
 
 ## 🔥 Contribuições
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PEREIRAFERREIRARAFAEL&theme=tokyonight)
